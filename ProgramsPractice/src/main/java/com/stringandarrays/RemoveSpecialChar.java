@@ -12,7 +12,7 @@ public class RemoveSpecialChar {
 
 		// -----------------------------------------
 
-		String str1 = "o   pe   n";
+		String str1 = "o   pe     n";
 
 		str1 = str1.replaceAll("\\s", "");
 
